@@ -1,1 +1,1 @@
-# IEEE_leukemia_detection
+# leukemia_detection
